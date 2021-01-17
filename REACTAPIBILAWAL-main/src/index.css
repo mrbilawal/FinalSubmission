@@ -1,0 +1,35 @@
+.back
+{
+    background: lightslategray;
+    color: white;
+    text-align: center;
+}
+.ruler
+{
+    border-bottom: 1px solid #d5d5d5;
+    width: 75%;
+    margin-top: .8rem;
+}
+#about-sec
+{
+    margin-top: 25px;
+}
+.text-color
+{
+    color: black;
+}
+.const-img
+{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.service-icon
+{
+    display: inline-block;
+    font-size: 32px;
+    margin-bottom: 16px;
+    color: black;
+    padding: 8px 16px;
+}
